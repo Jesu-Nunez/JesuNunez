@@ -17,11 +17,11 @@
 
 <br>
 
-- Potencialmente un desarrollador Back-End
-- Actualmente estoy estudiando ingeniería en sistemas 
-- Me encanta estudiar Fisica y la Investigación astrofísica
-- Tengo 19 años
-- "La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote."-Albert Einstein
+- Potencialmente un desarrollador Back-End.
+- Actualmente estoy estudiando Ingeniería en Sistemas de Información.
+- Me encanta estudiar Fisica y Astronomía.
+- Tengo 19 años.
+- "La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote."-Albert Einstein.
   
 <br><br>
 
